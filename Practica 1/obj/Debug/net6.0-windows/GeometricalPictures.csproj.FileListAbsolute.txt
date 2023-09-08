@@ -1,0 +1,17 @@
+C:\Users\ASUS\Downloads\OneDrive_2023-09-06\Practica 1\bin\Debug\net6.0-windows\GeometricalPictures.exe
+C:\Users\ASUS\Downloads\OneDrive_2023-09-06\Practica 1\bin\Debug\net6.0-windows\GeometricalPictures.deps.json
+C:\Users\ASUS\Downloads\OneDrive_2023-09-06\Practica 1\bin\Debug\net6.0-windows\GeometricalPictures.runtimeconfig.json
+C:\Users\ASUS\Downloads\OneDrive_2023-09-06\Practica 1\bin\Debug\net6.0-windows\GeometricalPictures.dll
+C:\Users\ASUS\Downloads\OneDrive_2023-09-06\Practica 1\bin\Debug\net6.0-windows\GeometricalPictures.pdb
+C:\Users\ASUS\Downloads\OneDrive_2023-09-06\Practica 1\obj\Debug\net6.0-windows\GeometricalPictures.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\OneDrive_2023-09-06\Practica 1\obj\Debug\net6.0-windows\GeometricalPictures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Downloads\OneDrive_2023-09-06\Practica 1\obj\Debug\net6.0-windows\GeometricalPictures.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\OneDrive_2023-09-06\Practica 1\obj\Debug\net6.0-windows\GeometricalPictures.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\OneDrive_2023-09-06\Practica 1\obj\Debug\net6.0-windows\GeometricalPictures.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\OneDrive_2023-09-06\Practica 1\obj\Debug\net6.0-windows\GeometricalPictures.dll
+C:\Users\ASUS\Downloads\OneDrive_2023-09-06\Practica 1\obj\Debug\net6.0-windows\refint\GeometricalPictures.dll
+C:\Users\ASUS\Downloads\OneDrive_2023-09-06\Practica 1\obj\Debug\net6.0-windows\GeometricalPictures.pdb
+C:\Users\ASUS\Downloads\OneDrive_2023-09-06\Practica 1\obj\Debug\net6.0-windows\GeometricalPictures.genruntimeconfig.cache
+C:\Users\ASUS\Downloads\OneDrive_2023-09-06\Practica 1\obj\Debug\net6.0-windows\ref\GeometricalPictures.dll
+C:\Users\ASUS\Downloads\OneDrive_2023-09-06\Practica 1\obj\Debug\net6.0-windows\GeometricalPictures.Form1.resources
+C:\Users\ASUS\Downloads\OneDrive_2023-09-06\Practica 1\obj\Debug\net6.0-windows\GeometricalPictures.csproj.GenerateResource.cache
